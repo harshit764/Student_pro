@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# Student Portfolio Pro 🎓
 
-This contains everything you need to run your app locally.
+A professional, responsive portfolio website designed for students and freshers. This project features AI-driven portfolio generation and a secure contact system.
 
-View your app in AI Studio: https://ai.studio/apps/ae8470fa-90fc-4515-ae53-0931559426c0
+## ✨ Key Features
+* **AI Portfolio Gen:** Integrated with **Google Gemini AI** to help students generate professional summaries and project descriptions.
+* **Database:** **Firebase Firestore** integration to store and manage contact form submissions securely.
+* **Design:** Fully responsive UI/UX built with **React** and **Vite**, featuring smooth animations and a clean dark theme.
 
-## Run Locally
+## 🚀 Getting Started
 
-**Prerequisites:**  Node.js
+### Prerequisites
+* **Node.js** (Latest LTS version recommended)
+* A **Firebase** account and **Gemini API Key**
 
+### Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/harshit764/Student_pro.git](https://github.com/harshit764/Student_pro.git)
